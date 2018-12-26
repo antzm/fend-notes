@@ -2,7 +2,7 @@
 
 fend notes on HTML, CSS and JavaScript
 
-## JavaScript and the DOM
+## [JavaScript and the DOM](dom-and-js.md)
 
 ### Selecting page elements
 * Selecting An Element By ID
@@ -12,6 +12,3 @@ fend notes on HTML, CSS and JavaScript
 * The querySelectorAll
 
 ### Update Existing Page Content
-
-
-

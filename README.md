@@ -17,3 +17,22 @@ Fend notes on HTML, CSS and JavaScript
    * .textContent
    * .innerText
 
+* Add New Page Content
+  * .createElement()
+  * .appendChild()
+  * .createTextNode()
+  * .insertAdjacentHTML()
+
+* Remove Page Content
+  * .removeChild(
+  * .remove()
+  * .firstChild
+  * .firstElementChild
+  * .parentElement
+
+* Style Page Content
+  * .style.<property>
+  * .cssText()
+  * .setAttribute()
+  * .className
+  * .classList

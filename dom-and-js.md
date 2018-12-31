@@ -14,5 +14,27 @@
   * `document.querySelectorAll();` // _returns a list of elements_
 
 ## Update Existing Page Content
-`const selection = document.querySelector('.className');`
-`selection.textContent = "This is the new text";`
+   * .innerHTML
+   * .outerHTML
+   * .textContent
+   * .innerText
+
+## Add New Page Content
+  * .createElement()
+  * .appendChild()
+  * .createTextNode()
+  * .insertAdjacentHTML()
+
+## Remove Page Content
+  * .removeChild(
+  * .remove()
+  * .firstChild
+  * .firstElementChild
+  * .parentElement
+
+## Style Page Content
+  * .style.<property>
+  * .cssText()
+  * .setAttribute()
+  * .className
+  * .classList

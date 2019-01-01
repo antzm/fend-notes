@@ -38,3 +38,8 @@
   * .setAttribute()
   * .className
   * .classList
+
+## Respond to Events
+  * .addEventListener()
+  * .removeEventListener()
+  * .dispatchEvent()

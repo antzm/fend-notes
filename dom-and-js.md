@@ -3,15 +3,15 @@
 ## Selecting page elements
 
 * Selecting An Element By ID
-  * `document.getElementById('idName');`
+  `document.getElementById('idName');`
 * Selecting Elements By Their Class
-  * `document.getElementsByClassName('className');`
+  `document.getElementsByClassName('className');`
 * Selecting Elements By Their Tag
-  * `document.getElementsByTagName('tagName');`
+  `document.getElementsByTagName('tagName');`
 * The querySelector
-  * `document.querySelector()` // _returns a single element_
+  `document.querySelector()` // _returns a single element_
 * The querySelectorAll
-  * `document.querySelectorAll();` // _returns a list of elements_
+  `document.querySelectorAll();` // _returns a list of elements_
 
 ## Update Existing Page Content
    * .innerHTML

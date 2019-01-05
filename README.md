@@ -2,6 +2,14 @@
 
 Fend notes on HTML, CSS and JavaScript
 
+## HTML intro
+
+## CSS intro
+
+## JavaScript Intro
+
+## ES6 Update
+
 ## [JavaScript and the DOM](dom-and-js.md)
 
 * Selecting page elements

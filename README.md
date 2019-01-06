@@ -8,6 +8,13 @@ Fend notes on HTML, CSS and JavaScript
 
 ## JavaScript Intro
 
+* Data types and variables
+* Conditionals
+* Loops
+* Functions
+* Arrays
+* Objects
+
 ## ES6 Update
 
 ## [JavaScript and the DOM](dom-and-js.md)

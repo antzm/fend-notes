@@ -17,6 +17,16 @@ Fend notes on HTML, CSS and JavaScript
 
 ## ES6 Update
 
+* let and const
+* Destructuring values from an array
+* Destructuring values from an object
+* The for...of loop
+* Arrow Functions
+* The Spread ... Operator
+* The Rest ... parameter
+* Default Parameters
+* Template Literals
+
 ## [JavaScript and the DOM](dom-and-js.md)
 
 * Selecting page elements

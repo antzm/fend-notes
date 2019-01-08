@@ -4,7 +4,12 @@ Fend notes on HTML, CSS and JavaScript
 
 ## HTML intro
 
+* Semantic tags
+
 ## CSS intro
+
+* Flexbox
+* Media queries
 
 ## JavaScript Intro
 

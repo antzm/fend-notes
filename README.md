@@ -18,6 +18,18 @@ Fend notes on HTML, CSS and JavaScript
 * Loops
 * Functions
 * Arrays
+  * length
+  * push
+  * pop
+  * splice
+  * shift
+  * unshift
+  * reverse
+  * sort
+  * slice
+  * fill
+  * join
+  * map
 * Objects
 
 ## ES6 Update

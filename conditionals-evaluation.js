@@ -104,22 +104,24 @@ console.log(x===3 || z===8);
 // or, it continues and evaluate the second expression,
 // and then it returns the result of the second expression
 //
-// Examples:
-//
+// Example 1:
 // JS evaluates the first expression, which is true.
 // Then, it checks the operator which is &&
 // After that, it continues to the second expression and returns
 // the result of the second expression.
 //
+// Example 2:
 // JS evaluates the first expression, which is false.
 // Then, it checks the operator which is &&
 // After that, it returns the result of the first expression.
 //
+// Example 3:
 // JS evaluates the first expression, which is false.
 // Then, it checks the operator, which is ||
 // After that, it continues to the second expression and returns
 // the result of the second expression.
 //
+// Example 4:
 // JS evaluates the first expression, which is true.
 // Then, it checks the operator which is ||
 // After that, it returns the result of the first expression.

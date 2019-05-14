@@ -1,10 +1,10 @@
 // Examples on how JavaScript
 // evaluates the conditional statements
 
-var x=1;
-var y=2;
+var x = 1;
+var y = 2;
 
-console.log(x===1 && y===2);
+console.log(x === 1 && y === 2);
 // true
 //
 // 1. JavaScript evaluates `x===1` to `true`
@@ -17,7 +17,7 @@ console.log(x===1 && y===2);
 // 5. So, it returns the value of `y===2`, which is true
 
 
-console.log(x===3 && z===8);
+console.log(x === 3 && z === 8);
 // false
 //
 // 1. JavaScript evaluates `x===3` to `false`
@@ -31,7 +31,7 @@ console.log(x===3 && z===8);
 // 4. It returns the value of `x===3`, which is `false`
 
 
-console.log(x===1 && z===8);
+console.log(x === 1 && z === 8);
 // Uncaught ReferenceError: z is not defined
 //
 // 1. JavaScript evaluates `x===1` to `true`
@@ -47,7 +47,7 @@ console.log(x===1 && z===8);
 //    the code.
 
 
-console.log(x===1 || z===8);
+console.log(x === 1 || z === 8);
 // true
 //
 // 1. JavaScript evaluates `x===1` to `true`
@@ -61,7 +61,7 @@ console.log(x===1 || z===8);
 // 4. So, it returns the value of `x===1`, which is true.
 
 
-console.log(x===3 || y===5);
+console.log(x === 3 || y === 5);
 // false
 // 
 // 1. JavaScript evaluates `x===3` to `false`
@@ -74,7 +74,7 @@ console.log(x===3 || y===5);
 // 5. So, it returns the value of `y===5`, which is false
 
 
-console.log(x===3 || z===8);
+console.log(x === 3 || z === 8);
 // Uncaught ReferenceError: z is not defined
 // 
 // 1. JavaScript evaluates `x===3` to `false`

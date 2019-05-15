@@ -1,8 +1,8 @@
 // Examples on how JavaScript
 // evaluates the conditional statements
 
-var x = 1;
-var y = 2;
+const x = 1;
+const y = 2;
 
 console.log(x === 1 && y === 2);
 // true

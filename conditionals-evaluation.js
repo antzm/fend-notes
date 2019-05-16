@@ -3,6 +3,8 @@
 
 const x = 1;
 const y = 2;
+// for the following examples,
+// the constant z should not be declared
 
 console.log(x === 1 && y === 2);
 // true

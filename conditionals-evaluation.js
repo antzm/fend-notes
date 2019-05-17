@@ -4,10 +4,10 @@
 const x = 1;
 const y = 2;
 // for the following examples,
-// the constant z should not be declared
+// the variable (constant) z should not be declared
 
 console.log(x === 1 && y === 2);
-// true
+// console logs: true
 //
 // 1. JavaScript evaluates `x===1` to `true`
 // 2. After that, it checks the type of operator
@@ -20,7 +20,7 @@ console.log(x === 1 && y === 2);
 
 
 console.log(x === 3 && z === 8);
-// false
+// console logs: false
 //
 // 1. JavaScript evaluates `x===3` to `false`
 // 2. After that, it checks the type of operator
@@ -50,7 +50,7 @@ console.log(x === 1 && z === 8);
 
 
 console.log(x === 1 || z === 8);
-// true
+// console logs: true
 //
 // 1. JavaScript evaluates `x===1` to `true`
 // 2. After that, it checks the type of operator
@@ -64,7 +64,7 @@ console.log(x === 1 || z === 8);
 
 
 console.log(x === 3 || y === 5);
-// false
+// console logs: false
 // 
 // 1. JavaScript evaluates `x===3` to `false`
 // 2. After that, it checks the type of operator
